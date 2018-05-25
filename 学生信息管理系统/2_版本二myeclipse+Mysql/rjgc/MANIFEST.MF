@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path:  lib/mysql-connector-java-5.1.34.jar
+Main-Class:  rjgc.LoginIn
+Created-By: XHS_12302 
+
